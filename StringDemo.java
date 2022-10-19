@@ -24,5 +24,7 @@ class StringDemo{
 		System.out.println(name.length());
 		System.out.println(name.charAt(3));
 		System.out.println(address.replace('u','o'));
+		
+		//String methods
 	}
 }
